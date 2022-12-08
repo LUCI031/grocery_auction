@@ -3,6 +3,7 @@
 final_data.csv
 data_origin/
 data_proceed/
+data_ingredients/
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
