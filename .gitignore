@@ -1,5 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
+/Users/luci031/Desktop/Coding/g_auction/final_data.csv
 final_data.csv
 data_origin/
 data_proceed/
